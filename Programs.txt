@@ -1,3 +1,5 @@
 Python
 Git 
 Bash
+anaconda
+
